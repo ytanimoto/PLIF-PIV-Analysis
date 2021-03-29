@@ -17,3 +17,11 @@ The workflow in `main.m` is meant to be used for each experimental set. Naturall
 * run the PIV on the images to get velocity fields
 * uses the PIV outputs and collocates them with the corrected PLIF fields to write out collocated, simultaneous density and velocity fields.
 
+## Additional reading
+I would suggest the following papers for a better understanding of PLIF and PIV
+1. Crimaldi, J. P., and J. R. Koseff. "High-resolution measurements of the spatial and temporal scalar structure of a turbulent plume." *Experiments in Fluids* 31.1 (2001): 90-102.
+2. Troy, C. D., and J. R. Koseff. "The generation and quantitative visualization of breaking internal waves." *Experiments in fluids* 38.5 (2005): 549-562.
+3. Westerweel, J, and Fulvio Sc. "Universal outlier detection for PIV data." *Experiments in fluids* 39.6 (2005): 1096-1100.
+4. Shavit, U., Ryan J. L., and Jonah V. S. "Intensity capping: a simple method to improve cross-correlation PIV results." *Experiments in Fluids* 42.2 (2007): 225-240.
+5. Crimaldi, J.P. "Planar laser induced fluorescence in aqueous flows". *Exp Fluids* 44, 851–863 (2008). 
+6. Xue, Z., John J. C., and Pavlos P. V. "Particle image velocimetry correlation signal-to-noise ratio metrics and measurement uncertainty quantification." *Measurement Science and Technology* 25.11 (2014): 115301.
